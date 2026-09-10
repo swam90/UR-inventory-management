@@ -1,0 +1,6 @@
+# Deny all direct access to the data folder.
+# (Belt-and-braces: the data/ folder already lives outside the public
+# document root in the recommended setup, so this is a backup in case
+# it ever ends up inside the web root by mistake.)
+Order deny,allow
+Deny from all
