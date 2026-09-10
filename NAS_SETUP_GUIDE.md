@@ -5,7 +5,7 @@ app. All your data (vendors, items, entries, notes) lives on your own NAS —
 not on any third-party server — and every device that opens the app pulls
 and pushes to it over the internet.
 
-Your DS223j uses a Realtek chip and **does not support Container
+Your DS223j uses a  Realtek chip and **does not support Container
 Manager (Docker)**. That's fine — we don't need it. Everything below uses
 **Web Station + PHP**, which DS223j supports natively.
 
