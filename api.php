@@ -11,7 +11,7 @@
  *   GET   /api.php   -> returns { vendors, items, notes, entries }
  *   POST  /api.php   -> body is { vendors, items, notes, entries }, overwrites the store
  *
- * Auth: every request must include header  X-API-Key: <your secret>
+ * Auth: every  request must include header  X-API-Key: <your secret>
  * matching the value of API_KEY in config.php (one directory above this file).
  */
 
