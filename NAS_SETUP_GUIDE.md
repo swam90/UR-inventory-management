@@ -1,7 +1,7 @@
 # NAS Sync Setup — Synology DS223j
 
 This turns your DS223j into the private backend for the Urban Roti Inventory
-app. All your data (vendors, items, entries, notes) lives on your own NAS —
+app. All your  data (vendors, items, entries, notes) lives on your own NAS —
 not on any third-party server — and every device that opens the app pulls
 and pushes to it over the internet.
 
